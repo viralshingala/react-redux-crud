@@ -1,0 +1,10 @@
+export const FETCH_ONE = 'cars/FETCH_ONE';
+export const FETCH_ONE_SUCCESS = 'cars/FETCH_ONE_SUCCESS';
+export const FETCH_COLLECTION = 'cars/FETCH_COLLECTION';
+export const FETCH_COLLECTION_SUCCESS = 'cars/FETCH_COLLECTION_SUCCESS';
+export const CREATE = 'cars/CREATE_CAR';
+export const CREATE_SUCCESS = 'cars/CREATE_CAR_SUCCESS';
+export const UPDATE = 'cars/UPDATE';
+export const UPDATE_SUCCESS = 'cars/UPDATE_SUCCESS';
+export const DELETE = 'cars/DELETE';
+export const DELETE_SUCCESS = 'cars/DELETE_SUCCESS';
